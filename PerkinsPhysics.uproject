@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{53B7A7BC-42E2-9380-80C3-4682D042242B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PerkinsPhysics",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
